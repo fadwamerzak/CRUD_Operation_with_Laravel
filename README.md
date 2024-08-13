@@ -16,6 +16,8 @@
 
 This project is a simple CRUD (Create, Read, Update, Delete) application built with the Laravel framework .
 
+https://github.com/user-attachments/assets/492b14a1-cf6a-4b4b-a555-0f1faffb3820
+
 ## ✨ Features
 
 - **Create, Read, Update, and Delete operations**
